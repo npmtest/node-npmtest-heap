@@ -1,4 +1,7 @@
-# test coverage for  [heap (v0.2.6)](https://github.com/qiao/heap.js)  [![npm package](https://img.shields.io/npm/v/npmtest-heap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-heap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-heap.svg)](https://travis-ci.org/npmtest/node-npmtest-heap)
+# npmtest-heap
+
+#### basic test coverage for  [heap (v0.2.6)](https://github.com/qiao/heap.js)  [![npm package](https://img.shields.io/npm/v/npmtest-heap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-heap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-heap.svg)](https://travis-ci.org/npmtest/node-npmtest-heap)
+
 #### binary heap (priority queue) algorithms (ported from Python's heapq module)
 
 [![NPM](https://nodei.co/npm/heap.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/heap)
@@ -78,7 +81,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "0.2.6"
+    "version": "0.2.6",
+    "bin": {}
 }
 ```
 
